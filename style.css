@@ -18,7 +18,7 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    height: 65vh;
+    height: 630px;
     max-width: 100%;
     width: 420px;
     padding: 1rem;
